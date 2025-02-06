@@ -10,5 +10,5 @@ let package = Package(name: "MGJRouter_Swift",
                       products: [.library(name: "MGJRouter_Swift",
                                           targets: ["MGJRouter_Swift"])],
                       targets: [.target(name: "MGJRouter_Swift",
-                                        path: "MGJRouter_Swift",
+                                        path: "Source",
                                         publicHeadersPath: "")])
